@@ -3,8 +3,8 @@ import fresh_tomatos
 
 
 fury = media.Movie("Fury","War Never Ends Quietly",
-                  "http://t2.gstatic.com/images?q=tbn:ANd9GcR_ppNO9FR1hT0mRhqD1lWovgQZMwxJRhYrEa7vYmTb-atN1Opu",
-                  "https://www.youtube.com/watch?v=-OGvZoIrXpg")
+                   "http://t2.gstatic.com/images?q=tbn:ANd9GcR_ppNO9FR1hT0mRhqD1lWovgQZMwxJRhYrEa7vYmTb-atN1Opu",
+                   "https://www.youtube.com/watch?v=-OGvZoIrXpg")
 midnight_in_paris = media.Movie("Midnight In Paris","A screenwriter travel back in time to 1920's Paris during his nightly strolls through the city.",
                                 "http://t3.gstatic.com/images?q=tbn:ANd9GcTk3ssys2bKM5-U6XMgvoD8yVoS5Io2YKg_1xA6x6GA8mKuuqID",
                                 "https://www.youtube.com/watch?v=wuOUdZjuCIA")
@@ -26,5 +26,5 @@ underworld = media.Movie("Underworld",
                          "https://www.youtube.com/watch?v=MqT-e44kIM8")
 
 movies=[fury,midnight_in_paris,pitch_perfect,dodgeball,groundhog_day,underworld]
-#creates HTML doc for movie website
+# creates HTML doc for movie website
 fresh_tomatos.open_movies_page(movies)
