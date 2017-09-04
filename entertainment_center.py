@@ -28,3 +28,4 @@ underworld = media.Movie("Underworld",
 movies = [fury, midnight_in_paris, pitch_perfect, dodgeball, groundhog_day, underworld]
 # creates HTML doc for movie website
 fresh_tomatos.open_movies_page(movies)
+

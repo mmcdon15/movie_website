@@ -1,4 +1,5 @@
 "# movie_website"
+
 REQUIREMENTS:
 	-Python
 	
@@ -13,3 +14,6 @@ FILES:
 	
 	-fresh_tomatos.py layouts the format of the created HTML file. It also handles displaying the trailers and handling click events.
 	
+
+This is the my first project for my nanodegree with Udacity
+
