@@ -14,6 +14,8 @@ FILES:
 	
 	-fresh_tomatos.py layouts the format of the created HTML file. It also handles displaying the trailers and handling click events.
 	
+TO RUN:
+	-to run OPEN enteratinment_center.py in IDLE and click run module or press F5.
 
 This is the my first project for my nanodegree with Udacity
 
